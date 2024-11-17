@@ -13,7 +13,7 @@ This project is a React application that demonstrates the use of reusable compon
 1. **Clone the repository** (or download the files):
    - git clone https://github.com/katrina-l-hill/alert_buttons_react
    - cd into the repository directory, `alert-button-toolbar`
-   - npm install
+   - Run `npm install`
 2. **Run the Main program**:
    - run `npm start`
 3. **Run the tests**:
